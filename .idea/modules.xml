@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ide.config.iml" filepath="$PROJECT_DIR$/ide.config.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/tiago.iml" filepath="$PROJECT_DIR$/.idea/tiago.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ana.iml" filepath="$PROJECT_DIR$/.idea/ana.iml" />
     </modules>
   </component>
 </project>
